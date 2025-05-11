@@ -6,5 +6,6 @@
 <h2> redeploying after errors at 8PM on 11th of May 2025 at 4pm</h2>
 <h2> welcome back again after redeployment </h2>
 <h2> deployment successful at 4:10PM </h2>
+<h2> changed the kubernates files at 4:30 today </h2>
 </body>
 </html>
